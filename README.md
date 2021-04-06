@@ -48,4 +48,10 @@ Official maintained building and releasing tools
 https://github.com/covscript/cspkg
 
 Official maintained package(libraries, extensions, etc.) manager 
-### Interpreter Extension
+
+## Package Submitting
+[CSPKG Source](https://github.com/covscript/cspkg-sources)
+
+[Build your package](https://github.com/covscript/cspkg#build-your-package)
+
+[Build your package with CSBuild](https://github.com/covscript/csbuild#build-your-package-with-csbuild)
