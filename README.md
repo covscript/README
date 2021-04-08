@@ -49,7 +49,38 @@ https://github.com/covscript/cspkg
 
 Official maintained package(libraries, extensions, etc.) manager 
 
+#### Standard Library
+
+[Standard Utilities](https://github.com/covscript/stdutils)
+
+[CovScript Database Connectivity](https://github.com/covscript/csdbc)
+
+[Darwin Universal CGL](https://github.com/covscript/covscript-darwin)
+
+[CovScript Database](https://github.com/covscript/covscript-database)
+
+[Base64/Json Codec](https://github.com/covscript/covscript-codec)
+
+[Regular Expression](https://github.com/covscript/covscript-regex)
+
+[LibMozart Process](https://github.com/covscript/covscript-process)
+
+[SQLite3 Database](https://github.com/covscript/covscript-sqlite)
+
+[Zip File Support](https://github.com/covscript/covscript-zip)
+
+[Dear ImGui GUI](https://github.com/covscript/covscript-imgui)
+
+[ASIO Network](https://github.com/covscript/covscript-network)
+
+[cURL Network](https://github.com/covscript/covscript-curl)
+
+#### Platform Specified Library
+
+[wiringPi](https://github.com/covscript/covscript-wiringpi)
+
 ## Package Submitting
+
 [CSPKG Source](https://github.com/covscript/cspkg-sources)
 
 [Build your package](https://github.com/covscript/cspkg#build-your-package)
