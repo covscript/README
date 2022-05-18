@@ -1,7 +1,5 @@
 # Covariant Script Programming Language Organization
 ## Copyright
-### Trademark
-"Covariant Script" and the Covariant Script Logo are trademarks of Chengdu Zhirui Technology Co., LTD.
 ### Interpreter
 Copyright © 2017-2022 李登淳(@mikecovlee)
 #### Copyright Notice
