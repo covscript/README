@@ -3,7 +3,7 @@
 ### Trademark
 "Covariant Script" and the Covariant Script Logo are trademarks of Chengdu Zhirui Technology Co., LTD.
 ### Interpreter
-Copyright © 2017-2021 李登淳(@mikecovlee)
+Copyright © 2017-2022 李登淳(@mikecovlee)
 #### Copyright Notice
 ```
 This software is registered with the National Copyright Administration
@@ -35,7 +35,7 @@ Also, The Covariant Script Organization is the main constitutor of the standardi
 ### Introduction and Download
 See http://covscript.org.cn/ (in Simplified Chinese)
 ### Documents and Language Standard
-See http://wiki.csman.info/ (in Simplified Chinese)
+See https://csman.info/ (in Simplified Chinese)
 ### Core Toolchain
 https://github.com/covscript/covscript
 
@@ -86,3 +86,13 @@ Official maintained package(libraries, extensions, etc.) manager
 [Build your package](https://github.com/covscript/cspkg#build-your-package)
 
 [Build your package with CSBuild](https://github.com/covscript/csbuild#build-your-package-with-csbuild)
+
+## Legacy Platforms
+
+Covariant Script drops mainstream support for legacy platforms listed below:
++ Microsoft Windows XP, Vista or older versions
++ 32-bit support for Microsoft Windows and macOS
+
+To satisfy some special compatible requirements, we provide incomplete support for these platforms:
++ [Microsoft Windows XP 32-bit](https://github.com/covscript-archives/legacy_windows_support/)
+  + Lack of CSPKG and Libcurl support
