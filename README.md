@@ -35,7 +35,7 @@ Also, The Covariant Script Organization is the main constitutor of the standardi
 
 ## Composition
 ### Introduction and Download
-See http://covscript.org.cn/ (in English and Simplified Chinese)
+See https://covscript.org.cn/ (in English and Simplified Chinese)
 ### Language Design
 [简体中文](./Language-zh.md)
 ### Documents and Language Standard
