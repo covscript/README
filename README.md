@@ -1,7 +1,7 @@
 # Covariant Script Programming Language Organization
 ## Copyright
 ### Interpreter
-Copyright © 2017-2023 李登淳(@mikecovlee)
+Copyright © 2017-2024 李登淳(@mikecovlee)
 #### Copyright Notice
 ```
 This software is registered with the National Copyright Administration
@@ -39,7 +39,7 @@ See https://covscript.org.cn/ (in English and Simplified Chinese)
 ### Language Design
 [简体中文](./Language-zh.md)
 ### Documents and Language Standard
-See https://csman.info/ (in Simplified Chinese)
+See http://manual.covscript.org.cn/ (in Simplified Chinese)
 ### Core Toolchain
 https://github.com/covscript/covscript
 
