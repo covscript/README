@@ -19,7 +19,7 @@ CovScript 最初是想打造一个类 C 编程思想、语法比较简单的动�
 资源管理方面，CovScript 融合了基于范围的变量生命周期（类似 C++ 的 RAII）和 GC：
  + CovScript 在语言层面上是保证了资源安全的，用户大多数时候无需担心资源管理的问题
  + 但由于类 RAII 机制的存在，再加上变量的类型是动态的，GC 在大多数情况下不是必须的
- + 具体可参考 [CovScript 变量的生命周期](https://csman.info/doku.php?id=manual:reference:grammar:type_system:main_page#变量的生命周期)
+ + 具体可参考 [CovScript 变量的生命周期](https://manual.covscript.org.cn/doku.php?id=manual:reference:grammar:type_system:main_page#变量的生命周期)
 
 语言特性方面，CovScript 采取语言核心提供基础设施、外围库提供扩展语义的方式，减少语言核心标准的频繁变动带来的负面影响。
  + 比如协程（Coroutine），语言核心仅提供了较为原始的 API，抽象程度较高的 Coroutine Scheduler 则在 Standard Utilities 中提供
